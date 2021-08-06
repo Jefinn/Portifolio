@@ -12,11 +12,11 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeff-Bootstrap" height="34" width="35" src="https://github.com/Jefinn/jefinn/blob/main/icon/bootstrap_plain_logo_icon_146619.png">
-  <img align="center" alt="Jeff-Java" height="40" width="45" src="https://github.com/Jefinn/jefinn/blob/main/icon/java_original_wordmark_logo_icon_146459.png">
-  <img align="center" alt="Jeff-Java" height="55" width="45" src="https://github.com/Jefinn/jefinn/blob/main/icon/mysql_original_wordmark_logo_icon_146417.png">  
+  <img align="center" alt="Jeff-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jeff-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jeff-Bootstrap" height="40" width="35" src="https://github.com/Jefinn/jefinn/blob/main/icon/bootstrap_plain_logo_icon_146619.png">
+  <img align="center" alt="Jeff-Java" height="50" width="45" src="https://github.com/Jefinn/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Jeff-MySql" height="65" width="65" src="https://github.com/Jefinn/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">  
 <div> 
   <br>
    <a href="https://www.linkedin.com/in/jeferson-ssilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
