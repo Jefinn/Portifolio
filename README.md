@@ -12,7 +12,6 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Jeff-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeff-Bootstrap" height="34" width="35" src="https://github.com/Jefinn/jefinn/blob/main/icon/bootstrap_plain_logo_icon_146619.png">
