@@ -12,12 +12,12 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="Jeff-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jeff-CSS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jeff-Bootstrap" height="40" width="35" src="https://github.com/Jefinn/jefinn/blob/main/icon/bootstrap_plain_logo_icon_146619.png">
-  <img align="center" alt="Jeff-Java" height="50" width="45" src="https://github.com/Jefinn/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Jeff-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Jeff-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jeff-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Jeff-Java" height="40" width="50" src="https://github.com/Jefinn/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Jeff-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">  
-  <img align="center" alt="Jeff-MySql" height="65" width="65" src="https://github.com/Jefinn/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Jeff-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <div> 
   <br>
    <a href="https://www.linkedin.com/in/jeferson-ssilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
