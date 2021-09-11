@@ -19,8 +19,7 @@
   <img align="center" alt="Jeff-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">  
   <img align="center" alt="Jeff-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <div> 
-  <br>
- 
+
   ![Snake animation](https://github.com/Jefinn/Jefinn/blob/output/github-contribution-grid-snake.svg)
   
   <p align=center>
