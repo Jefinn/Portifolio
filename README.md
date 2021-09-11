@@ -1,9 +1,9 @@
 ## Olá, Prazer sou Jeferson Silva 👋
 
-- 🔭 Estou em busca de uma oportunidade profissional
+- 👔 Estou em busca de uma oportunidade profissional
 - 🎓 Atualmente estou aprendendo JavaScript, GIT & Spring Boot
 - ⚡ Soft Skill: Comunicativo, Organizado, Objetivo, Dinamico, Empático e Resiliente
-- 🌱 No tempo livre gosto de Jogar bola, Ouvir musica, Ler livros de investimentos e Assistir Netflix
+- 🌱 No tempo livre gosto de jogar bola, ouvir musica, ler livros de investimentos e assistir Netflix
 
 <div>
   <a href="https://github.com/Jefinn">
