@@ -16,8 +16,7 @@
   <img align="center" alt="Jeff-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeff-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Jeff-Java" height="40" width="50" src="https://github.com/Jefinn/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Jeff-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">  
-  <img align="center" alt="Jeff-Spring" height="40" width="50" src="https://github.com/Jefinn/devicon/blob/master/icons/git/git-original.svg">  
+  <img align="center" alt="Jeff-Python" height="40" width="50" src="https://github.com/Jefinn/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Jeff-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 <div> 
 
