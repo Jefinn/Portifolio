@@ -16,6 +16,7 @@
   <img align="center" alt="Jeff-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Jeff-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Jeff-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Jeff-"Git" height="40" width="50" src=https://github.com/Jefinn/devicon/blob/master/icons/git/git-original.svg>
 <div> 
 
   ![Snake animation](https://github.com/Jefinn/Jefinn/blob/output/github-contribution-grid-snake.svg)
