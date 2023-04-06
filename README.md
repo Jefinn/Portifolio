@@ -17,7 +17,9 @@
   <img align="center" alt="Jeff-CSS" height="40" width="50" src="https://github.com/Jefinn/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jeff-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img align="center" alt="Jeff-MySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Jeff-"Git" height="40" width="50" src=https://github.com/Jefinn/devicon/blob/master/icons/git/git-original.svg>
+  <img align="center" alt="Jeff-Git" height="40" width="50" src=https://github.com/Jefinn/devicon/blob/master/icons/git/git-original.svg>
+  <img align="center" alt="Jeff-Github" height="40" width="50" src=https://github.com/Jefinn/devicon/blob/master/icons/github/github-original.svg>                       <img align="center" alt="Jeff-VsCode" height="40" width="50" src=https://github.com/Jefinn/devicon/blob/master/icons/vscode/vscode-original.svg>
+  <img align="center" alt="Jeff-VsCode" height="40" width="40" src=https://github.com/Jefinn/devicon/blob/master/icons/pycharm/PyCharm_Icon.svg.png>    
 <div> 
 
   ![Snake animation](https://github.com/Jefinn/Jefinn/blob/output/github-contribution-grid-snake.svg)
