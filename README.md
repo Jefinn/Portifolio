@@ -1,6 +1,5 @@
 ## Olá, Prazer sou Jeferson Silva 👋
 
-- 👔 Estou em busca de uma oportunidade profissional
 - 🎓 Atualmente estou aprendendo JavaScript, Bootstrap, Python & Git
 - ⚡ Soft Skill: Comunicativo, Organizado, Objetivo, Dinamico, Empático e Resiliente
 - 🌱 No tempo livre gosto de jogar bola, ouvir musica, ler livros de investimentos e assistir filmes e series
